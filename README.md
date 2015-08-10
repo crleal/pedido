@@ -1,0 +1,3 @@
+# pedido
+
+Projeto django pedido
